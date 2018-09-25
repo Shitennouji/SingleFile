@@ -20,8 +20,8 @@
         "description": "メニュー項目: '選択したタブを保存'"
     },
     "menuUnpinnedTabs": {
-        "message": "固定解除されたタブを保存する",
-        "description": "メニュー項目: '固定解除されたタブを保存する'"
+        "message": "ピン止めされていないタブを保存する",
+        "description": "メニュー項目: 'ピン止めされていないタブを保存する'"
     },
     "menuAllTabs": {
         "message": "すべてのタブを保存",
@@ -40,8 +40,8 @@
         "description": "メニュー項目: '自動保存' > このタブを自動保存する'"
     },
     "menuAutoSaveUnpinnedTabs": {
-        "message": "固定解除されたタブの自動保存",
-        "description": "メニュー項目: '自動保存' > 固定解除されたタブの自動保存'"
+        "message": "ピン止めされていないタブの自動保存",
+        "description": "メニュー項目: '自動保存' > ピン止めされていないタブの自動保存'"
     },
     "menuAutoSaveAllTabs": {
         "message": "すべてのタブを自動的に保存する",
@@ -104,8 +104,8 @@
         "description": "オプションのサブタイトル: 'ファイル名'"
     },
     "optionFilenameTemplate": {
-        "message": "template",
-        "description": "Options page label: 'template'"
+        "message": "保存時の定形書式",
+        "description": "オプションのページラベル: '保存時の定形書式'"
     },
     "optionConfirmFilename": {
         "message": "を開く（として保存する：ファイル名を確認するためのダイアログ）",
